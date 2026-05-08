@@ -8,7 +8,7 @@
 
 ## 🎯 Overview
 
-SteelAdvisory empowers [Array](https://arraytechinc.com/), a Phoenix-based solar company, to optimize steel procurement through predictive analytics and multi-objective optimization—reducing costs while advancing sustainability goals.
+[SteelAdvisory](steeladvisory.vercel.app) empowers [Array](https://arraytechinc.com/), a Phoenix-based solar company, to optimize steel procurement through predictive analytics and multi-objective optimization—reducing costs while advancing sustainability goals.
 
 ## 💡 The Problem
 
